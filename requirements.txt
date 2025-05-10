@@ -1,0 +1,9 @@
+diffusers
+torch
+trimesh
+Pillow
+numpy
+opencv-python
+rembg
+open3d
+onnxruntime  # or onnxruntime-gpu if using CUDA
